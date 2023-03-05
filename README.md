@@ -9,6 +9,7 @@
 </h5>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Coding" width="400">
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/MaisaraNagi.png" alt="TryHackMe">
 
 
 - 🔭 I’m currently working on **THM_Writups**
