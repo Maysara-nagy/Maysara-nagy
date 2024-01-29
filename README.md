@@ -8,7 +8,7 @@
   </a>
 </h5>
 <h3 align="center">👩‍💻 Jr. Penetration Tester || Bug bounty Hunter || CTF Player || Top 1% on THM || +eJPTv1 || HCIA || Security+ SY0-601 || ALX SE 1 year Grant || CyberOps || CCNAv7 || PenTest+ || Software Developer [MEAN stack]</h3>
-<img align="right" src="https://i.pinimg.com/originals/1f/20/f4/1f20f423834bca13c5b4b90558c71977.gif" alt="Coding" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/95082903/205471779-95120e09-6bf8-4fc7-a3d8-faa696daa89e.png" alt="Coding" width="500">
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/MaisaraNagi.png" alt="TryHackMe">
 
@@ -43,12 +43,26 @@
 
 ![DivyaGrv's GitHub status](https://github-readme-stats.vercel.app/api?username=maysara-nagy&show_icons=true&theme=yeblu)
 
-![DivyaGrv's GitHub status](https://github-readme-streak-stats.herokuapp.com/?user=maysara-nagy&theme=yeblu) 
-<a href="https://github.com/maysara-nagy/maysara-nagy">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maysara-nagy&theme=gruvbox&hide_border=true)](https://github.com/maysara-nagy" alt="maysara-nagy GitHub Stats Graph"/>
-</a>
-<br><br>
-<img src="https://views.whatilearened.today/views/github/maysara-nagy/maysara-nagy.svg?cache=remove"/>    
+
 ---
+<p align="center">
+  <a>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Maysara-nagy&theme=dark"/>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kishanrajput23">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kishanrajput23&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/kishanrajput23">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanrajput23&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+
+<div align="center">
+
 ![GitHub Snake Light](https://github.com/grace-anand/grace-anand/blob/output/github-contribution-grid-snake-coloured.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/grace-anand/grace-anand/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
