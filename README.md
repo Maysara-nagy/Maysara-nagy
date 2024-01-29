@@ -7,7 +7,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!❤️⭐✨&center=true&size=20">
   </a>
 </h5>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Coding" width="400">
+<h3 align="center">👩‍💻 Jr. Penetration Tester || Bug bounty Hunter || CTF Player || Top 1% on THM || +eJPTv1 || HCIA || Security+ SY0-601 || ALX SE 1 year Grant || CyberOps || CCNAv7 || PenTest+ || Software Developer [MEAN stack]</h3>
+<img align="right" src="https://i.pinimg.com/originals/1f/20/f4/1f20f423834bca13c5b4b90558c71977.gif" alt="Coding" width="400">
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/MaisaraNagi.png" alt="TryHackMe">
 
@@ -47,8 +48,7 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maysara-nagy&theme=gruvbox&hide_border=true)](https://github.com/maysara-nagy" alt="maysara-nagy GitHub Stats Graph"/>
 </a>
 <br><br>
-<a href="https://github.com/maysara-nagy/maysara-nagy">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=maysara-nagy&theme=github" alt="maysara-nagy GitHub Contributions Graph"/>
-</a>
-<br><br>
 <img src="https://views.whatilearened.today/views/github/maysara-nagy/maysara-nagy.svg?cache=remove"/>    
+---
+![GitHub Snake Light](https://github.com/grace-anand/grace-anand/blob/output/github-contribution-grid-snake-coloured.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/grace-anand/grace-anand/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
