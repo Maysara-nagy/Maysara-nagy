@@ -14,19 +14,46 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/MaisaraNagi.png" alt="TryHackMe">
 
 
-- 🔭 I’m currently working on **THM_Writups**
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Cyber security, MERN stack, Python**
 
-- 👯 I’m looking to collaborate on **2D Game & 3D Game**
+I am a **Computer Science student** at Helwan University in Egypt, driven by a profound passion for **cybersecurity**. My ambition is to evolve into a skilled **Red Teamer and Pentester**.
 
-- 🤝 I’m looking for help with **Faculty project (MERN)**
+### 🚀 Expertise
 
-- 💬 Ask me about **Cyber security roadmaps & CTF's writeups**
+- Specialized in the **MEAN stack**
+- Proficient in **HTML, CSS, JavaScript, Node.js, and Angular**
+- Continuously refining skills in **C/C++, Python, shell scripting**
+- Experienced in **Linux** (Kali, Red Hat Administration 1), **cloud security**, **virtualization**
+- Expertise in **network & web pen-testing**
 
-- 📫 How to reach me **maysara.nagy@gmail.com**
+### 🌐 Intersection of Development and Security
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1McElJuzy_GesfZlH-xP_JYita5ElXgU-/view?usp=sharing
+I am deeply committed to my professional development, navigating the intersection of robust software development and proactive security.
+
+Let's build a secure digital future together! 💻🛡️
+
+
+### 🔍 Current Focus
+
+- 🔭 Currently working on THM_Writups & CTF's Hunter
+- 🌱 Learning Cybersecurity, MEAN stack, Python
+- 👯 Looking to collaborate on my personal Web-app
+- 🤝 Seeking help with Faculty GP project (MEAN)
+- 💬 Ask me about Cybersecurity roadmaps & CTF's writeups
+
+### 📄 Experiences
+
+With a strong focus on security, I am eager to apply my evolving expertise in Pentesting, actively contributing to the offensive cybersecurity domain.
+
+### 🛡️ CTF Rankings
+
+As a dedicated CTF player, I hold rankings below 1000 in CyberTalents and below 2500 in TryHackMe, showcasing my unwavering commitment to continuous learning in the dynamic field of cybersecurity.
+
+### 📫 How to Reach Me
+
+📧 Email: maysara.nagy@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
