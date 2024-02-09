@@ -8,9 +8,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!❤️⭐✨&center=true&size=20">
   </a>
 </h5>
-<h3 align="center">👩‍💻 Jr. Penetration Tester || Bug bounty Hunter || CTF Player || Top 1% on THM || +eJPTv1 || HCIA || Security+ SY0-601 || ALX SE 1 year Grant || CyberOps || CCNAv7 || PenTest+ || Software Developer [MEAN stack]</h3>
 
 [![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)](https://rishavchanda.io)
+
+<h3 align="center">👩‍💻 Jr. Penetration Tester || Bug bounty Hunter || CTF Player || Top 1% on THM || +eJPTv1 || HCIA || Security+ SY0-601 || ALX SE 1 year Grant || CyberOps || CCNAv7 || PenTest+ || Software Developer [MEAN stack]</h3>
+
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding" width="500">
 
