@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Maisara Nagi</h1>
 <h3 align="center">A computer science student & Jr penetration tester</h3>
-<h5 align="center">┌──(🥷root㉿0xM3s0)-[~]<br>
-└─>cat sudoers.txt</h5>
+<h3 align="center">┌──(🥷root㉿0xM3s0)-[~]<br>
+└─>cat sudoers.txt</h3>
 <h5 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!❤️⭐✨&center=true&size=20">
