@@ -1,5 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Maisara Nagi</h1>
+
+[![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)](https://rishavchanda.io)
+
+
 <h3 align="center">A computer science student & Jr penetration tester</h3>
 <h3 align="center">┌──(🥷root㉿0xM3s0)-[~]<br>
 └─>cat sudoers.txt</h3>
@@ -8,8 +12,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!❤️⭐✨&center=true&size=20">
   </a>
 </h5>
-
-[![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)](https://rishavchanda.io)
 
 <h3 align="center">👩‍💻 Jr. Penetration Tester || Bug bounty Hunter || CTF Player || Top 1% on THM || +eJPTv1 || HCIA || Security+ SY0-601 || ALX SE 1 year Grant || CyberOps || CCNAv7 || PenTest+ || Software Developer [MEAN stack]</h3>
 
